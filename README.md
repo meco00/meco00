@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am half finish
 -->
 
 
